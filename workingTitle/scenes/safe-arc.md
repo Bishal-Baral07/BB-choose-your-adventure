@@ -3,5 +3,5 @@
 The detour reveals a **sealed reliquary room** with faint heartbeats within.
 
 **Options:**
-- [Chisel open the reliquary to investigate](./dock-derelict.md)
-- [Ignore it and follow the chalk marks toward the sigil](./beacon-approach.md)
+- :hammer: [Chisel open the reliquary to investigate](./dock-derelict.md)
+- :pencil2: [Ignore it and follow the chalk marks toward the sigil](./beacon-approach.md)
