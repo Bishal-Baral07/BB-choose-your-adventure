@@ -1,7 +1,7 @@
 # Ending — Guild Protocol (Neutral/Good)
 
-You follow the guild’s rules to the letter. The rescue succeeds; scholars study the charm ethically.
+You follow the guild Elders' rules to the letter. The rescue succeeds; scholars study the charm ethically.
 
 **THE END**
 
-[Play again](../start.md)
+[Play again](../_start-here.md)
