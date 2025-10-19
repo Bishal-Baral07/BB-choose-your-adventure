@@ -6,4 +6,4 @@ Dust trembles from the stonework as a faint blue pulse travels through the floor
 
 **What do you do?**
 - :suspect: [Descend the main stair toward the echoing hall](scenes/dock-and-launch.md)
-- :scroll: [Report to the guild steward for supplies and a map](scenes/brief-captain.md)
+- :scroll: [Report to the guild elder for supplies and a map](scenes/brief-captain.md)
